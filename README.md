@@ -34,3 +34,8 @@ Crawler.withoutXLWT.py 是删去XLWT代码部分的爬虫
 ## 3.5
 
 修复3.0版本中的已知BUG，做到流畅运行。
+
+## 4.0
+
+1. 更改库名为CrawlerPackage
+2. 上传QQ音乐爬虫（未引入VIP Cookie，目前只能爬取免费音乐）
