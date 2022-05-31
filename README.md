@@ -1,5 +1,5 @@
-# SetuCrawler
-A web crawler which is used to scratch certain kinds of pictures
+# CrawlerPackage
+A web crawler which is used to scratch certain kinds of pictures and other things.
 
 
 # 说明
